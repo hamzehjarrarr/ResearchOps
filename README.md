@@ -65,8 +65,9 @@ rather than written by the model: themes with no or one verified finding, how ma
 findings are actually about the question's subject, whether any regulator or academic
 source was cited, and how many findings were rejected.
 
-![A finding rejected by the verifier](docs/screenshots/verifier.png)
+*A finding rejected by the verifier, from the EU AI Act run in the table below. The extractor's statement matched its quote, but the reviewer found a part of the claim it judged unsupported, so the finding was left out of the report.*
 
+![A finding rejected by the verifier (EU AI Act run)](docs/screenshots/verifier.png)
 ## Example runs
 
 Real runs, unedited, each about 6–8 minutes on a laptop.
