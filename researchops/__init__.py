@@ -1,0 +1,1 @@
+"""ResearchOps AI: an evidence-first research agent on a local model."""
